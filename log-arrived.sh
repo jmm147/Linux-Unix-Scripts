@@ -11,7 +11,20 @@
 #				:Create a schedule in crontab (BE EXTREMELY CAREFUL PLAYING WITH CRONTAB)
 #					-Every minute		*/1 * * * * /scripts/log-arrived.sh
 #					-Every hour			* */1 * * * /scripts/log-arrived.sh
+#License		:GNU GPL-3	
+#    			Copyright (C) 2018  Jason McColl
+#
+#    			This program is free software: you can redistribute it and/or modify
+#    			it under the terms of the GNU General Public License as published by
+#    			the Free Software Foundation, either version 3 of the License, or
+#    			(at your option) any later version.
+#
+#    			This program is distributed in the hope that it will be useful,
+#   			but WITHOUT ANY WARRANTY; without even the implied warranty of
+#    			MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+#				GNU General Public License for more details.
 #Version		:v1.0 - Created
+#				:v1.1 - Added License information
 ##########################################################################################
 
 ##############################     VARIABLES TO MODIFY      ##############################
